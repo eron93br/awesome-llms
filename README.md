@@ -1,4 +1,4 @@
-# Awesome LLMs
+# 🌟 Awesome LLMs
 
 
 ## RAG
@@ -22,3 +22,7 @@ TBD..
 ## MCP
 
 TBD..
+
+## 🌐 Other awesome repos references 
+
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
